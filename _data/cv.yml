@@ -16,8 +16,8 @@
     - title: B.E. in Computer Science
       institution: Wuhan University, China
       year: 2017 - 2021
-      description:
-        - <strong>Final rank:</strong> 13/339 (3.9%)
+      # description:
+      #   - <strong>Final rank:</strong> 13/339 (3.9%)
 
 
 - title: Experience
